@@ -1,6 +1,6 @@
 package practice;
 
-public class Pattern22 {
+public class I{
 
 	/*
 	 
